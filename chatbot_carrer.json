@@ -1,0 +1,534 @@
+[
+    {
+      "label": "resume_tips",
+      "patterns": [
+        "How to make a good resume?",
+        "Best resume tips for freshers",
+        "How do I write an ATS-friendly resume?",
+        "What should I include in my resume?",
+        "How can I make my resume stand out?",
+        "What are the most important resume sections?",
+        "Should I include a summary in my resume?",
+        "How many pages should my resume be?",
+        "What are some common resume mistakes?",
+        "How to format a resume for job applications?",
+        "What is the best way to list skills on a resume?",
+        "Should I add a photo to my resume?",
+        "How to write a resume with no experience?",
+        "How can I tailor my resume for different jobs?",
+        "What keywords should I use in my resume?"
+      ],
+      "responses": [
+        "📄 Focus on skills, projects, and achievements. Use ATS-friendly formats with clear headings and bullet points. Keep it concise.📑 Avoid long paragraphs and fancy designs. Use keywords from job descriptions to improve your chances!🔍 Customize your resume for each job by highlighting relevant experience and skills. Make sure it's one page for freshers!"
+      ]
+    },
+    {
+      "label": "internship_search",
+      "patterns": [
+        "Where to find internships?",
+        "Best websites for internships?",
+        "How do I get an internship?",
+        "Internship opportunities for students?",
+        "What skills do I need for an internship?",
+        "How to apply for internships?",
+        "Can I get a remote internship?",
+        "Best companies for internships?",
+        "How to find paid internships?",
+        "Internship sites for freshers?",
+        "How do I write an internship cover letter?",
+        "How do I get an internship with no experience?",
+        "When is the best time to apply for internships?",
+        "How do I impress recruiters for an internship?",
+        "What should I do before applying for an internship?"
+      ],
+      "responses": [
+        "🌐 Check platforms like Internshala, LinkedIn, and Kaggle competitions for AI internships!💼 Build your LinkedIn profile, connect with professionals, and apply early for the best opportunities!📝 Create a strong resume and cover letter. Even if you have no experience, highlight your projects and skills!"
+      ]
+    },
+    {
+      "label": "gsoc_tips",
+      "patterns": [
+        "How to get into GSoC?",
+        "GSoC preparation guide",
+        "How to prepare for Google Summer of Code?",
+        "Best open-source organizations for GSoC?",
+        "How do I find GSoC projects?",
+        "What are the eligibility criteria for GSoC?",
+        "How to write a GSoC proposal?",
+        "What skills do I need for GSoC?",
+        "How can I increase my chances of selection in GSoC?",
+        "Is GSoC difficult?",
+        "How do I contribute to open source before GSoC?",
+        "Where can I find mentors for GSoC?",
+        "What programming languages are useful for GSoC?",
+        "How to stay active in an open-source community?",
+        "What mistakes should I avoid while applying for GSoC?"
+      ],
+      "responses": [
+        "👨‍💻 Start by contributing to open-source projects and writing quality PRs! Explore organizations from the GSoC archive!\n2.📝 A strong proposal is key! Clearly define your project goals, timeline, and technical details!\n3.💡 Engage with mentors, solve beginner-friendly issues, and stay consistent with contributions before applying!"
+      ]
+    },
+    {
+      "data": [
+        {
+          "label": "board preparation",
+          "patterns": [
+            "My board exams are coming how can I prepare",
+            "How to start studying for board exams",
+            "How to score maximum marks in exams",
+            "What should I study for the board exams",
+            "How to manage time for board exam preparation",
+            "Tips for board exam preparation",
+            "How can I focus during board exam prep",
+            "What resources should I use for board exam preparation",
+            "How to avoid stress during board exam preparation",
+            "How to prepare for board exams in one month"
+          ],
+          "responses": [
+            "Your board exam is coming, so prepare hard! Cover all topics and work on weak areas! 💪📚, Start by creating a study plan. Prioritize subjects you find hard! 📝📖,Don't forget to take breaks and stay hydrated. Health is important too! 🧘‍♂️💧,Revise past papers and focus on key chapters. You’ve got this! 💯📊"
+          ]
+        },
+        {
+          "label": "roadmap for computer engineer",
+          "patterns": [
+            "How to become a computer engineer",
+            "Give me a roadmap for CS engineering",
+            "What should I study to become a computer engineer",
+            "What skills do I need to become a computer engineer",
+            "How to start my journey as a computer engineer",
+            "What programming languages should I learn",
+            "Should I focus on algorithms or projects for computer engineering",
+            "Do I need a master's degree for computer engineering",
+            "What certifications are good for a computer engineer",
+            "What are the career opportunities for computer engineers"
+          ],
+          "responses": [
+            "That's great that you want to become a computer engineer! Start with the basics and then master important skills like programming, algorithms, and data structures. Want a detailed plan? 🖥️💡"
+          ]
+        },
+        {
+          "label": "career in data science",
+          "patterns": [
+            "How can I become a data scientist",
+            "What should I study for data science",
+            "Is data science a good career option",
+            "What skills are needed for a data scientist",
+            "How to prepare for a career in data science",
+            "What are the job opportunities in data science",
+            "How long does it take to become a data scientist",
+            "What tools should I learn for data science",
+            "What programming languages are important for data science",
+            "Do I need a PhD to be a data scientist"
+          ],
+          "responses": [
+            "Data science is an exciting field! Start by learning Python, statistics, and machine learning. Keep practicing with projects to sharpen your skills. 📊🤖"
+          ]
+        },
+        {
+          "label": "entrepreneurship",
+          "patterns": [
+            "How can I become an entrepreneur",
+            "What are the first steps to becoming an entrepreneur",
+            "How to start a business",
+            "What skills do I need to be an entrepreneur",
+            "Is entrepreneurship a good career option",
+            "What should I know before starting my own business",
+            "How can I raise funds for my startup",
+            "What industries are good for entrepreneurship",
+            "How to handle failures as an entrepreneur",
+            "What are the best books for aspiring entrepreneurs"
+          ],
+          "responses": [
+            "Entrepreneurship is an amazing journey! Start with an idea, do market research, and create a solid business plan. Don’t forget to network! 🚀📈"
+          ]
+        },
+        {
+          "label": "career in AI",
+          "patterns": [
+            "How can I start a career in AI",
+           "What skills are needed for a career in AI",
+          "Best companies for internships?",
+           "What programming languages should I learn for AI",
+           " What is the future of AI as a career",
+           " Do I need a degree for a career in AI",
+           " What is the best way to get into AI",
+           " How to work on AI projects",
+           " What are the top companies for AI careers",
+           " How long does it take to become an AI engineer"
+           ],
+          "responses": [
+            "AI is the future! Start learning machine learning, deep learning, and Python. Build projects and stay updated with research! 🤖🔍"
+          ]
+        },
+        {
+          "label": "career in robotics",
+          "patterns": [
+            "How do I become a robotics engineer",
+            "What should I study to work in robotics",
+            "What skills do I need to be a robotics engineer",
+            "Is robotics a good career choice",
+            "What programming languages are used in robotics",
+            "How to build a career in robotics",
+            "What are the best universities for robotics",
+            "What are the job opportunities in robotics",
+            "What are the challenges in robotics engineering",
+            "How long does it take to become a robotics engineer"
+          ],
+          "responses": [
+            "Robotics is fascinating! Learn programming, mechanical engineering, and AI. Start building small projects to improve your skills! 🤖🔧"
+          ]
+        },
+        {
+          "label": "career in graphic design",
+          "patterns": [
+            "How can I become a graphic designer",
+            "What software should I learn for graphic design",
+            "What skills are important for a graphic designer",
+            "Is graphic design a good career option",
+            "How to build a portfolio for graphic design",
+            "What are the best graphic design courses",
+            "How to improve my design skills",
+            "What are the job opportunities in graphic design",
+            "How to get clients as a freelance graphic designer",
+            "What industries need graphic designers"
+          ],
+          "responses": [
+            "Graphic design is a creative career! Master software like Adobe Illustrator, work on real-world projects, and keep updating your portfolio! 🎨💻"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "HSC preparation",
+      "patterns": [
+        "My HSC exams are near, how can I prepare?",
+        "How to score maximum marks in HSC exams?",
+        "What should I focus on for HSC preparation?",
+        "How to manage time during HSC preparation?",
+        "What are the important topics for HSC exams?",
+        "How to study for HSC exams effectively?",
+        "How to balance study and relaxation for HSC?",
+        "What resources should I use for HSC preparation?",
+        "How can I avoid stress during HSC exams?",
+        "How to prepare for HSC exams in the last 3 months?"
+      ],
+      "responses": [
+        "Your HSC exams are coming up! Start by planning a daily schedule, and focus on key subjects. Stay consistent! 📅📖, Revise important chapters and solve previous years' question papers to improve your answering skills. 📚✍️, Focus on understanding concepts deeply rather than rote learning. It will help you retain better. 💡🔍,Take short breaks during study sessions to avoid burnout. Don't forget to relax and keep your mind fresh! 🧘‍♀️💆‍♂️,Use online resources like educational videos and study apps to supplement your textbook knowledge. 🌐📱,Work on your time management skills by practicing mock tests. This will help you during the real exam. ⏱️📊, Eat healthy and get good sleep during your preparation. A healthy body leads to a focused mind! 🍏💤,Stay positive and believe in yourself. Confidence will help you stay calm during exams! 🌟💪,Prioritize subjects you find challenging, but don’t ignore your stronger subjects. Balance is key! ⚖️📘,Revise thoroughly in the last 2-3 weeks. Avoid cramming in the last minute! 🏃‍♀️📑"
+      ]
+    },
+    {
+      "label": "roadmap for high school students",
+      "patterns": [
+        "How should I plan my high school years?",
+        "What subjects should I focus on in high school?",
+        "How to improve my grades in high school?",
+        "How to manage school and extracurricular activities?",
+        "What skills should I develop in high school?",
+        "How to choose the right subjects for my future career?",
+        "How to study effectively for high school exams?",
+        "What are some tips for high school success?",
+        "How do I balance social life and academics?",
+        "How can I stay motivated throughout high school?"
+      ],
+      "responses": [
+       " Start by developing good study habits early on and set goals for each year. 📘🎯,Focus on core subjects like Maths, Science, and English, and explore electives that interest you! 🧑‍🏫📚,Review your grades regularly, seek help in weak subjects, and stay consistent! 📊✏️, Join clubs or sports to build teamwork and leadership skills. Balance is key! ⚽🎨, Develop time management and communication skills, which will be valuable in the future. ⏰💬,Think about your interests and career goals. Seek advice from teachers or career counselors. 🌟🧑‍💼,Practice regularly, take mock tests, and stay organized with your notes. 📝💡,Keep a positive mindset and remember that each year builds on the last! Stay focused. 🌈💪, Make time for friends, but remember that school comes first! 🎉👨‍🎓,Stay motivated by setting short-term goals and celebrating small victories! 🎯🎉"
+      ]
+    },
+    {
+      "label": "roadmap for college preparation",
+      "patterns": [
+        "How can I start preparing for college?",
+        "What subjects should I focus on for college?",
+        "How to choose the right college?",
+        "What extracurricular activities should I join for college?",
+        "How do I apply for college scholarships?",
+        "What exams should I prepare for college admission?",
+        "How to build a strong college application?",
+        "How to manage the pressure of college prep?",
+        "When should I start preparing for college?",
+        "What are the steps to take before applying for college?"
+      ],
+      "responses": [
+        "Start early! Research colleges, their programs, and admission requirements. 📚📝",
+        "Focus on your interests and strengths. Choose a major that aligns with your future goals! 🎓💼",
+        "Look for colleges that offer programs in your field of interest and have a good reputation. 🏫🌍",
+        "Get involved in extracurriculars that show leadership and passion, such as volunteering or clubs. 🎨🎤",
+        "Start researching scholarships early. Many are available for different fields and backgrounds. 💸💡",
+        "Prepare for entrance exams like SAT, ACT, or specific tests for your major. 📖🎯",
+        "Highlight your achievements and write a standout personal statement for your applications. 📝🌟",
+        "Stay organized, and don’t stress. Make a checklist of tasks to stay on track! ⏳✔️",
+        "It’s never too early to start! Begin prepping at least 1-2 years before your college application. 📅📅",
+        "Apply to multiple colleges to increase your chances. Have a backup plan! 🎓🔑"
+      ]
+    },
+    {
+      "label": "career exploration",
+      "patterns": [
+        "How do I explore different career options?",
+        "What should I do if I don’t know what career to pursue?",
+        "How do I figure out my strengths and interests for a career?",
+        "How can I shadow professionals to learn about careers?",
+        "What internships should I consider in high school?",
+        "What skills should I focus on for my future career?",
+        "How to start networking for career opportunities?",
+        "What are the best ways to gain work experience?",
+        "How do I choose a career based on my interests?",
+        "How can I get guidance in choosing the right career?"
+      ],
+      "responses": [
+        "Start by researching different career fields online and talk to professionals in various industries. 🌐💼",
+        "Explore your passions and strengths by trying different subjects and extracurricular activities! 🔍🎨",
+        "Take career quizzes and engage in activities that help you learn more about yourself! 🧠💡",
+        "Internships and job shadowing are great ways to get hands-on experience and insights! 🧑‍💼👩‍💼",
+        "Seek internships or volunteer opportunities in fields you're curious about. It’ll help you build skills! 💼💪",
+        "Work on communication, problem-solving, and leadership skills to prepare for any career! 🗣️💬",
+        "Join career-focused networks, attend events, and connect with professionals on LinkedIn! 🌐📱",
+        "Participate in summer programs or part-time jobs to build experience while still in school! ☀️💼",
+        "Think about what makes you happy and what tasks you excel in. This will guide your career choice! 💖🏅",
+        "Talk to career counselors, mentors, and professionals who can give you personalized advice. 🤝🎓"
+      ]
+    },
+    {
+      "label": "building technical skills",
+      "patterns": [
+        "How can I learn programming?",
+        "What are the best ways to learn coding?",
+        "How do I start building technical skills?",
+        "What programming languages should I learn first?",
+        "What online resources should I use to learn tech skills?",
+        "How to get hands-on experience in tech fields?",
+        "What are the best coding bootcamps for beginners?",
+        "How do I stay motivated while learning coding?",
+        "Should I learn web development or app development first?",
+        "How can I build a portfolio for my tech skills?"
+      ],
+      "responses": [
+        "Start by learning the basics of coding with languages like Python or JavaScript! 🐍💻,There are plenty of online courses and tutorials that make learning to code fun! 🌐📚,Practice coding every day by solving problems on websites like HackerRank or Codewars. 💻🔧,Learn foundational languages like HTML, CSS, and JavaScript for web development. 🌐💡,Use resources like Codecademy, freeCodeCamp, or Udemy to guide you. 🎓📱,Start building small projects like a personal website to showcase your skills. 💻🖥️Try enrolling in coding bootcamps for an intensive learning experience. 💪🎓,Set small, achievable goals and reward yourself when you reach them. 🎯🏆, Choose a field based on your interest—web development is a great start! 🌍👨‍💻Create a portfolio showcasing your projects on GitHub or a personal website. 📂🌐"
+      ]
+    },
+    {
+      "label": "roadmap for coding courses",
+      "patterns": [
+        "How do I start learning coding?",
+        "What is the best programming language to learn first?",
+        "Where can I find coding courses for beginners?",
+        "How can I learn web development?",
+        "What are the best coding courses online?",
+        "How do I learn to code in 6 months?",
+        "What are some free coding courses available?",
+        "How can I become proficient in coding?",
+        "What is the best way to learn Python?",
+        "Should I take a coding bootcamp or online courses?"
+      ],
+      "responses": [
+        "Start by choosing a programming language. Python is great for beginners! 🐍💻",
+        "Begin with HTML, CSS, and JavaScript for web development. These are essential skills! 🌐✨",
+        "Check out platforms like Codecademy, freeCodeCamp, or Udemy for beginner courses. 📚💻",
+        "You can learn web development through courses like 'The Complete Web Developer Bootcamp' on Udemy. 💻🔧",
+        "Some popular online platforms for coding courses are Coursera, edX, and Khan Academy. 🎓📱",
+        "Dedicate time daily for coding practice. Use resources like Codewars or LeetCode to solve coding problems! ⏳🔍",
+        "Many platforms like freeCodeCamp and CS50 from Harvard offer free coding courses. 📘💡",
+        "Practice regularly by working on small projects. This will help solidify your learning. 🔨💪",
+        "Start with Python and build projects like a simple calculator or a to-do list app. 📱📊",
+        "Online courses are great for self-paced learning, but coding bootcamps can offer immersive, guided experiences! 🎓🔥"
+      ]
+    },
+    {
+      "label": "roadmap for learning web development",
+      "patterns": [
+        "How do I start learning web development?",
+        "What are the best courses for learning web development?",
+        "How can I become a web developer?",
+        "What languages should I learn for web development?",
+        "How can I build my first website?",
+        "How long does it take to learn web development?",
+        "What projects should I build as a web developer?",
+        "Should I learn front-end or back-end development first?",
+        "How do I learn responsive web design?",
+        "Where can I find tutorials for web development?"
+      ],
+      "responses": [
+        "Start with the basics: HTML, CSS, and JavaScript. These are the foundation of web development! 🌐✨",
+        "Platforms like freeCodeCamp, Udemy, and Coursera offer excellent web development courses. 📚💻",
+        "Begin by learning how to create a simple static website using HTML and CSS. 🖥️🔧",
+        "You’ll need to learn JavaScript to add interactivity to your websites. Keep practicing! 📜💡",
+        "Work on small projects like a personal portfolio or a to-do list app to apply what you’ve learned. 💻🔨",
+        "It may take a few months to become proficient in web development, but consistency is key! ⏳📅",
+        "Build a portfolio of your projects to show potential employers or clients. 📂💼",
+        "Start with front-end development (HTML, CSS, JavaScript), then explore back-end development (Node.js, databases). ⚙️🔌",
+        "Learn how to make your website mobile-friendly by using CSS frameworks like Bootstrap. 📱📐",
+        "Follow tutorials on YouTube or blogs like CSS-Tricks and MDN Web Docs to improve your skills. 🎥📝"
+      ]
+    },
+    {
+      "label": "roadmap for learning data science",
+      "patterns": [
+        "How do I start learning data science?",
+        "What are the essential skills for data science?",
+        "Which programming languages should I learn for data science?",
+        "What are the best courses for learning data science?",
+        "How long does it take to become a data scientist?",
+        "What tools are needed for data science?",
+        "How can I learn machine learning?",
+        "How do I build a data science portfolio?",
+        "What projects should I work on as a data scientist?",
+        "How do I stay updated with the latest trends in data science?"
+      ],
+      "responses": [
+        "Start by learning Python and libraries like Pandas, NumPy, and Matplotlib. 🐍📊",
+        "You’ll also need a strong understanding of statistics, linear algebra, and calculus. 📚💡",
+        "For machine learning, start with courses like Andrew Ng’s ML course on Coursera. 🧠📈",
+        "Platforms like Kaggle, DataCamp, and Udacity offer great resources for learning data science. 🎓🌐",
+        "Becoming proficient takes time, but with consistent learning and practice, it’s achievable in 6-12 months! ⏳📅",
+        "Learn tools like Jupyter Notebooks and TensorFlow for more advanced data science work. 🧑‍💻📊",
+        "Work on projects like predicting stock prices or building a recommendation system. 💼🔍",
+        "Build a portfolio by showcasing your projects on GitHub and Kaggle. 📂🚀",
+        "Stay updated by following research papers, blogs, and online communities like Towards Data Science. 📰🔍",
+        "Don’t just learn theory—apply your knowledge to real-world problems through projects! 📊💼"
+      ]
+    },
+    {
+      "label": "entrepreneurship",
+      "patterns": [
+        "How can I become an entrepreneur",
+        "What are the first steps to becoming an entrepreneur",
+        "How to start a business",
+        "What skills do I need to be an entrepreneur",
+        "Is entrepreneurship a good career option",
+        "What should I know before starting my own business",
+        "How can I raise funds for my startup",
+        "What industries are good for entrepreneurship",
+        "How to handle failures as an entrepreneur",
+        "What are the best books for aspiring entrepreneurs"
+      ],
+      "responses": [
+        "Entrepreneurship is an amazing journey! Start with an idea, do market research, and create a solid business plan. Don’t forget to network! 🚀📈"
+      ]
+    },
+    {
+      "label": "job search",
+      "patterns": [
+        "How can I find a job after graduation",
+        "What are the best websites to search for jobs",
+        "How to prepare for a job interview",
+        "What should I include in my resume",
+        "How to write a cover letter",
+        "How to network for job opportunities",
+        "What skills are employers looking for",
+        "How to apply for jobs online",
+        "How to follow up after a job interview",
+        "What should I do if I don't hear back from an employer"
+      ],
+      "responses": [
+        "Job searching can be tough, but stay persistent! Update your resume, apply online, and prepare well for interviews. Don’t forget to network! 💼💻"
+      ]
+    },
+    {
+      "label": "career mistakes",
+      "patterns": [
+        "What are common career mistakes to avoid",
+        "How can I avoid making mistakes in my career",
+        "What are the biggest mistakes young professionals make",
+        "How do I recover from a career mistake",
+        "What mistakes should I avoid in the early stages of my career",
+        "How to avoid burnout in my career",
+        "Should I change careers if I make a mistake",
+        "How to deal with failures in my career",
+        "What should I do if I regret my career choice",
+        "How do I bounce back from a career setback"
+      ],
+      "responses": [
+        "Don’t be afraid to fail, but learn from mistakes. Regularly reassess your goals and growth areas. Stay focused on progress! 🌱💼,Avoid comparing your progress to others. Everyone moves at their own pace in their career. Focus on your own journey! ⏳💪, Building a solid network is key. Don’t isolate yourself in your career; connect with others in your field! 🤝📈,Don’t rush to climb the corporate ladder too fast. Take time to master the skills and learn the ropes. 🧗‍♂️📚,Burnout is real. Make sure you set boundaries and take time for yourself to recharge. ⚡💆‍♂️,Making mistakes is part of the process. Reflect on them, learn, and move forward stronger! 💡💪, Don’t stick to a job that makes you unhappy. If it’s not working, it’s okay to move on to something new. 🚶‍♀️🌟,Failing is just a step in the journey. Learn from it, and don’t let it discourage you! 💔➡️❤️,If you regret your choice, that’s okay. Start by exploring what excites you, and pivot to something that feels more aligned. 🔄✨,Setbacks are temporary. Focus on learning from the experience, and come back stronger. Resilience is key! 🔑💪"
+      ]
+    },
+    {
+      "label": "first job",
+      "patterns": [
+        "How can I find my first job",
+        "What should I include in my resume for my first job",
+        "How to prepare for a job interview",
+        "What questions will be asked in a first job interview",
+        "How do I make a good impression at my first job interview",
+        "What are the best websites to search for jobs",
+        "How should I dress for my first job interview",
+        "What skills should I highlight on my resume",
+        "How do I follow up after a job interview",
+        "What should I do after getting my first job offer"
+      ],
+      "responses": [
+        "Start by updating your resume and highlighting your skills and any experience (internships or projects). Don’t forget to add a strong objective statement! ✍️💼,Prepare for common interview questions like 'Tell me about yourself' or 'Why should we hire you?' Practice answering them confidently! 🎤💪,Dress professionally for the interview – it’s better to be overdressed than underdressed! Business attire works well for most interviews. 👔👗,Focus on transferable skills like teamwork, communication, and problem-solving. Employers love these qualities! 💡🤝,After your interview, send a thank-you email expressing your appreciation for the opportunity. It shows professionalism! 📧✨,Explore job listings on platforms like LinkedIn, Indeed, and Glassdoor to find opportunities that match your skills. 🌐🔍,Once you receive a job offer, take some time to review the terms, benefits, and job responsibilities before accepting. 📝💼,Don’t be afraid to ask questions during the interview, like the company’s culture, growth opportunities, and expectations. It shows interest! 🙋‍♂️💬,After securing your first job, make sure to stay organized, ask for feedback, and build a professional network. This will help you grow in your role! 📅🤝"
+      ]
+    },
+    {
+      "label": "career growth",
+      "patterns": [
+        "How can I grow in my career",
+        "What should I do to get a promotion",
+        "How do I develop my leadership skills",
+        "What are the best ways to advance in my career",
+        "How can I improve my skills at work",
+        "What should I focus on for career development",
+        "How do I stand out in my workplace",
+        "What are the key qualities for career success",
+        "How can I get noticed by my boss",
+        "How do I prepare for a career change"
+      ],
+      "responses": [
+        "Focus on continuous learning, whether it’s through courses, certifications, or hands-on experience. Keep improving your skills! 📚💡,To get a promotion, take initiative on projects, demonstrate leadership, and consistently meet or exceed your targets. 📈🚀, Leadership skills come from experience and learning. Start by mentoring others and taking on leadership roles in projects. 👥👨‍🏫,Network with people in your industry, seek mentorship, and constantly look for opportunities to learn and grow. 🌐🤝,Always look for ways to improve your performance. Ask for feedback, set goals, and work on your weaknesses. 💪📊, Focus on building both hard and soft skills. Technical skills are important, but soft skills like communication and emotional intelligence matter too! 💬💻,Stand out by showing your commitment, being reliable, and offering creative solutions to problems. Be the go-to person for your team! 🌟💼, Career success comes from consistency, building relationships, and staying adaptable in the face of change. Keep evolving! 🔄🏅,Show your value by consistently delivering quality work and maintaining a positive, proactive attitude. 💼👍,If you’re thinking of a career change, take the time to research new fields, develop relevant skills, and network in the new industry. 🔄🔍"
+      ]
+    },
+    {
+      "label": "career change",
+      "patterns": [
+        "How do I switch careers",
+        "What should I do if I want to change my career",
+        "How to transition to a new career",
+        "What steps should I take to start a new career",
+        "How can I change careers without experience in the new field",
+        "What skills do I need for a career change",
+        "How do I figure out what career is right for me",
+        "Is it too late to switch careers",
+        "How to write a resume for a career change",
+        "How can I gain experience in a new career"
+      ],
+      "responses": [
+       " To switch careers, start by researching industries that interest you. Then, identify transferable skills and areas where you may need to learn more. 🔍💼, Transitioning to a new career requires patience. Consider taking courses or certifications that can help you gain knowledge in your new field. 📚💡,Start by identifying your interests and strengths, then look for careers that align with them. Networking and mentorship are also key in this process. 🌱🤝,To change careers, consider internships or freelance work in your desired field. It will give you hands-on experience and expand your network. 🛠️💻,You don’t always need experience in the new field. Focus on transferable skills like communication, problem-solving, and adaptability. 🔄💬,For a career change, you may need new skills. Research online courses, workshops, or bootcamps that offer training in the field you want to pursue. 💻📈,Use self-assessment tools or career counseling to help you figure out what fits your personality and interests. Take your time exploring options! 🔎🧠,It’s never too late to switch careers! Many people have successfully made career changes at any age. The key is planning and persistence. ⏳🌟, When writing your resume, focus on transferable skills and accomplishments. Show how your previous experience adds value to the new role. 📄🔑,Start small by volunteering or shadowing professionals in your desired field. You can also look for part-time roles to gain initial experience. 🏁🌱"
+      ]
+    },
+    {
+      "label": "career advice",
+      "patterns": [
+        "How can I improve my career",
+        "What should I do to get ahead in my career",
+        "How to choose the right career for me",
+        "What is the best career path to follow",
+        "How do I balance work and life",
+        "How do I stay motivated in my career",
+        "What skills should I develop for career growth",
+        "How can I avoid burnout in my career",
+        "How do I find a job that I love",
+        "How can I get better at networking"
+      ],
+      "responses": [
+        "To improve your career, focus on building a strong skill set, setting goals, and always learning new things. Never stop growing! 📚💪,Getting ahead in your career requires a mix of hard work, networking, and always looking for ways to improve your skills. Keep pushing! 🚀🌱,Choosing the right career comes from understanding your interests, strengths, and values. Research different fields and talk to professionals! 🔍💡,The best career path depends on your passions and goals. Think about what excites you and where you see yourself in the future. 🛤️🌟,Balancing work and life is key to staying happy and productive. Make time for family, hobbies, and self-care to avoid burnout. ⚖️❤️Stay motivated by setting clear goals, celebrating your achievements, and finding purpose in your work. Stay focused and positive! 🎯💫,For career growth, focus on soft skills like communication and leadership, as well as technical skills in your field. Always seek ways to improve! 💬💻, Avoid burnout by managing stress, taking regular breaks, and ensuring a good work-life balance. Don’t forget to prioritize your well-being! 🧘‍♂️💆‍♀️,To find a job you love, explore different fields, network with professionals, and consider your passions and values when choosing a role. 💼💖,Networking is key! Attend events, join industry groups, and reach out to professionals on LinkedIn. Be proactive and build meaningful connections! 🤝🌐"
+      ]
+    },
+    {
+      "label": "study abroad",
+      "patterns": [
+        "How can I study abroad",
+        "What are the requirements to study abroad",
+        "How to apply for studying abroad",
+        "Which countries are best for studying abroad",
+        "What documents do I need for studying abroad",
+        "How to get a scholarship to study abroad",
+        "What is the cost of studying abroad",
+        "How do I choose the right university abroad",
+        "What are the benefits of studying abroad",
+        "How do I prepare for studying abroad"
+      ],
+      "responses": [
+        "To study abroad, research universities and countries that offer courses in your field. Don’t forget to check the visa requirements! 🌍🎓,The requirements typically include proof of previous education, English proficiency tests (like IELTS/TOEFL), and a valid passport. 📑💼,Start by choosing a country, then apply to universities through their official websites or through platforms like UCAS or ApplyTexas. 📝🌐,Popular countries for studying abroad include the US, UK, Canada, Australia, and Germany. Research the best fit for your program! 🇺🇸🇬🇧🇨🇦🇦🇺🇩🇪, You’ll need documents like your passport, academic transcripts, financial proof, visa application, and English language proficiency scores. 🛂📃,Look for scholarships from universities, governments, and private organizations. Start early and apply for as many as possible! 💰🎓,The cost varies by country, but you should budget for tuition, living expenses, travel, and health insurance. Research your options! 💵✈️,Consider factors like course offerings, campus life, location, and tuition fees. Choose a university that aligns with your career goals! 🏫🔍, Studying abroad broadens your horizons, improves language skills, and provides international career opportunities. It’s an enriching experience! 🌎📈,Start by preparing financially, applying for the visa, arranging accommodation, and researching cultural aspects of your destination. 🏠✈️"
+      ]
+    }
+  ]

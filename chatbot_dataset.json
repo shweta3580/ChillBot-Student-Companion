@@ -1,0 +1,89 @@
+
+{
+    "study_dataset": [
+      {
+        "tag": "ai_basics",
+        "patterns": ["What is AI?", "Tell me about artificial intelligence"],
+        "responses": ["AI is a field of computer science that enables machines to mimic human intelligence. It includes ML, NLP, and deep learning!"]
+      },
+      {
+        "tag": "ml_resources",
+        "patterns": ["Suggest some ML resources", "Where can I learn ML?"],
+        "responses": ["Here are some great ML resources: 1. Andrew Ng's Coursera Course 2. Kaggle ML courses 3. Hands-on ML book"]
+      },
+      {
+        "tag": "python_help",
+        "patterns": ["How do I start learning Python?", "Beginner Python resources"],
+        "responses": ["Start with Python basics on W3Schools, then move to projects and algorithms!"]
+      }
+    ],
+    "career_dataset": [
+      {
+        "tag": "resume_tips",
+        "patterns": ["How to make a good resume?", "Best resume tips for freshers"],
+        "responses": ["Focus on skills, projects, and achievements. Use ATS-friendly formats!"]
+      },
+      {
+        "tag": "internship_search",
+        "patterns": ["Where to find internships?", "Internship websites?"],
+        "responses": ["Check Internshala, LinkedIn, and Kaggle competitions for AI internships!"]
+      },
+      {
+        "tag": "gsoc_tips",
+        "patterns": ["How to get into GSoC?", "GSoC preparation guide"],
+        "responses": ["Start by contributing to open-source projects and writing quality PRs!"]
+      }
+    ],
+    "mental_health_dataset": [
+      {
+        "tag": "exam_stress",
+        "patterns": ["I'm stressed about exams", "How to handle exam pressure?"],
+        "responses": ["Take deep breaths, make a study plan, and don't forget to take breaks!"]
+      },
+      {
+        "tag": "motivation",
+        "patterns": ["I feel like giving up", "I'm not making progress"],
+        "responses": ["Success takes time! Even the best coders started as beginners. Keep pushing!"]
+      },
+      {
+        "tag": "time_management",
+        "patterns": ["How to manage time effectively?", "Time management tips for students"],
+        "responses": ["Use Pomodoro technique, prioritize tasks, and avoid distractions!"]
+      }
+    ],
+    "fun_dataset": [
+      {
+        "tag": "jokes",
+        "patterns": ["Tell me a joke", "Make me laugh"],
+        "responses": ["Why do programmers prefer dark mode? Because light attracts bugs!"]
+      },
+      {
+        "tag": "roast_mode",
+        "patterns": ["Roast me", "Can you insult me?"],
+        "responses": ["You're so slow, even a snail finished debugging before you! 😆"]
+      },
+      {
+        "tag": "random_facts",
+        "patterns": ["Tell me a random fact", "Surprise me with something cool"],
+        "responses": ["Did you know? The first AI program was written in 1951 by Christopher Strachey!"]
+      }
+    ],
+    "productivity_dataset": [
+      {
+        "tag": "study_tips",
+        "patterns": ["How to study effectively?", "Best study techniques"],
+        "responses": ["Use active recall, take breaks, and test yourself regularly!"]
+      },
+      {
+        "tag": "focus_tips",
+        "patterns": ["I keep getting distracted", "How to stay focused?"],
+        "responses": ["Block distractions, use focus apps, and study in a quiet environment!"]
+      },
+      {
+        "tag": "habit_building",
+        "patterns": ["How to build good habits?", "Best way to stay consistent?"],
+        "responses": ["Start small, be consistent, and track progress daily!"]
+      }
+    ]
+  }
+  
